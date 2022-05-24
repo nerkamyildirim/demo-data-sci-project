@@ -8,5 +8,13 @@ apple
 orange
 ellephat
 man 
- 
+
+
+def my_function():
+    pass
+
+def your_function():
+    pass
+
+
 
